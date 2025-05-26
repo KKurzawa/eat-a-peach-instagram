@@ -5,9 +5,9 @@
 An Instagram poster made with React, Tailwind, and CSS.
 
 
-![screenshot1](https://github.com/KKurzawa/houses-of-the-holy/blob/main/public/Feb8.png)
+![screenshot1](https://github.com/KKurzawa/eat-a-peach-instagram/blob/main/src/assets/June13Instagram.png)
 
-[Github Repository](https://github.com/KKurzawa/houses-of-the-holy/tree/main)
+[Github Repository](https://github.com/KKurzawa/eat-a-peach-instagram)
 
 ## Credits
 
